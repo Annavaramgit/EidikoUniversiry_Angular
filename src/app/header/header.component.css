@@ -1,0 +1,53 @@
+.header {
+    padding: 5px;
+    background: #fff;
+    color: #dbd7f0;
+    border-bottom: 1px solid #e0e4e8;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-button{
+    padding: 2% 0px 0px 0px;
+  }
+  .nav-button .btn {
+    width: 130px;
+    height: 40px;
+    font-weight: 500;
+    background: #4b4276;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s ease;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    color: #eae8f1;
+    text-transform: uppercase;
+   
+  }
+  
+  #loginBtn {
+    margin-left: 15px;
+   
+  }
+  
+  
+  
+  .btn.white-btn:hover {
+    background: rgba(172, 16, 16, 0.5);
+  }
+  
+  .btn.btn:hover {
+    background: rgba(230, 212, 212, 0.5);
+  }
+  h1{
+  text-align: center;
+  padding: 2px 2px 2px 25%;
+  color: rgb(86, 83, 240);
+  }
+  h1{
+    /* text-align: center; */
+   padding: 10px 0px 0px 35%;
+  }

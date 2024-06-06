@@ -1,0 +1,11 @@
+.grid{
+    display: flex;
+    /* flex-direction: row;
+    background-color: red; */
+    /* gap: 10px; */
+  
+}
+.main{
+    width: 100%;
+
+}
