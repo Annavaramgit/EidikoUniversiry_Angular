@@ -4,6 +4,8 @@ import { HeaderComponent } from './header/header.component';
 import { SidenavbarComponent } from './sidenavbar/sidenavbar.component';
 import { FooterComponent } from './footer/footer.component';
 
+// import { Chart ,registerables}from 'chart.js/auto'
+// Chart.register(...registerables);
 @Component({
   selector: 'app-root',
   standalone: true,

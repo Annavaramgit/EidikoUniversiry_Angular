@@ -1,21 +1,6 @@
-/* h1{
-    margin-left: 200px;
-    position: relative;
-} */
-
-
-footer{
-    bottom: 0%;
-    height: 20%;
-    margin-left: 0%;
-    width: 100%;
-}
-.main{
+#piechart {
+    max-width: 600px;
+    max-height: 400px;
+    margin: 0 auto;
     display: block;
-    height: 100%;
-    width: 100%;
-}
-.body{
-height: 70%;
-margin: 10px;
-}
+  }
